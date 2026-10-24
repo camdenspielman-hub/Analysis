@@ -1,0 +1,43 @@
+    <footer class="end">
+      <p>An alternate history written in October 2026. The serial, its author, its editions and everything marked <span class="tag c">choice</span> are invented; everything marked <span class="tag d">documented</span> is real and sourced in Part XVIII. <cite>Revolutionary Girl Utena</cite> (1997) belongs to Be-Papas, Chiho Saito, Shogakukan, Shokaku Iinkai and TV Tokyo; nothing from its scripts or songs is reproduced here, and the few Japanese lines quoted from the imagined serial are new writing.</p>
+      <a class="backtop" href="#top">Back to the top</a>
+    </footer>
+  </main>
+</div>
+
+<script>
+(function () {
+  // label highlighting
+  var body = document.body;
+  var btns = document.querySelectorAll('.legend button');
+  btns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = b.getAttribute('data-f');
+      var on = b.getAttribute('aria-pressed') !== 'true';
+      btns.forEach(function (x) { x.setAttribute('aria-pressed', 'false'); });
+      body.classList.remove('f-d', 'f-i', 'f-c');
+      if (on) { b.setAttribute('aria-pressed', 'true'); body.classList.add('f-' + f); }
+    });
+  });
+  // contents rail: mark the section in view
+  var links = Array.prototype.slice.call(document.querySelectorAll('#toc a'));
+  var map = {};
+  links.forEach(function (a) { map[a.getAttribute('href').slice(1)] = a; });
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting && map[e.target.id]) {
+          links.forEach(function (a) { a.classList.remove('on'); });
+          map[e.target.id].classList.add('on');
+        }
+      });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+    document.querySelectorAll('section.chap').forEach(function (s) { io.observe(s); });
+  }
+  // open the section named in the link, if any
+  if (location.hash && /^#[A-Za-z0-9._~-]+$/.test(location.hash)) {
+    var t = document.getElementById(location.hash.slice(1));
+    if (t) { setTimeout(function () { t.scrollIntoView(); }, 60); }
+  }
+})();
+</script>
