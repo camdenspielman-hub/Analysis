@@ -438,3 +438,102 @@ Purpose: to judge how an 1880s Japanese readership would understand the elements
 - **Date of Krafft-Ebing's 『色情狂編』.** Commonly dated 1894; the source opened gives no year.
 - **The 1881 princes' tattoos.** Wikipedia itself flags the conflict over design (dragon or crane) and over the tattooist.
 - **Search budget.** The shared WebSearch budget for this run ran out partway. Items above marked "not verified" could be checked in a follow-up.
+
+---
+
+## Verification pass
+
+An adversarial re-check of 25 load-bearing claims, made after the report above was written. For each claim I opened at least one page myself, using a different source from the report's wherever one could be found. Web search was unavailable: the shared budget was already spent. So every page here was reached by a known address: Kotobank entries, Wikipedia raw text, NDL Search catalogue records and the NDL Digital item API, e-Gov statute data, and repository PDFs. One PDF (Sakago 2016) had broken font encoding and was decoded through Adobe-Japan1 CID tables. "CONFIRMED" means an opened page supports the claim as written. Where only part of a claim was supported, the bullet says which part.
+
+- **少女界 (Kinkōdō) first issue April 1902; the first magazine with 少女 in its title.** CONFIRMED for the month. NDL holdings list 「1巻1号 (明35.4)」. ja.wikipedia 少女界 calls it 「日本最初の少女雑誌」. The day (11 Apr) was not independently confirmed. One conflict remains open: ja.wikipedia 少女界 says it was one of seven Kinkōdō magazines launched simultaneously (教育界・少年界・少女界・青年界・婦人界・文芸界・軍事界). That clashes with Ōhashi's "少年界 Feb 1902, 少女界 two months later." https://ndlsearch.ndl.go.jp/books/R100000002-I000000044031-d12851635 ; https://ja.wikipedia.org/wiki/少女界
+- **少年世界 opened a 「少女」 column in Sept 1895 (Meiji 28/9).** CONFIRMED, from the re-opened Kume Yoriko dissertation summary: 「「少年世界」（明治28年創刊）の「少女」欄開始（明治28年9月）」. No third source was found. ja.wikipedia 少年世界 says vaguely that the girls' column came 「1年半後」 (about mid-1896), which conflicts. The same Kume summary also says the column **ended in 1897**. https://jwu.repo.nii.ac.jp/record/1711/files/2013_%E4%B9%9961_%E4%B9%85%E7%B1%B3%E4%BE%9D%E5%AD%90.pdf ; https://ja.wikipedia.org/wiki/少年世界
+- **NKD's earliest 女学生 is 新聞雑誌 no. 40, Meiji 5/4 (1872).** CONFIRMED (NKD). Sakago 2016 independently dates 『新聞雑誌』 no. 40 to 明治五年四月. https://kotobank.jp/word/%E5%A5%B3%E5%AD%A6%E7%94%9F-533941 ; https://senshu-u.repo.nii.ac.jp/record/6121/files/1021_0128_10.pdf
+- **東京女学校: opened 1872 (lunar Meiji 5/2), closed 1877, and the 太政官正院 ordered samurai men's hakama for its girls.** CONFIRMED.
+  - Sekai Daihyakka: opened Meiji 5/2 at the former Kameoka domain mansion, moved to 竹平町 and renamed in Meiji 5/11, closed 1877.
+  - Iwasaki 1993, the underlying source, opened directly: 「明治5（1872）年に東京女学校が開設されたとき，女子の服装に士分男子の袴を取り入れることが太政官正院より指令された」.
+  - The exact closing day (19 Feb 1877) is from ja.wikipedia only.
+  - https://kotobank.jp/word/%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%A6%E6%A0%A1-1188767 ; https://dl.ndl.go.jp/view/download/digidepo_10580328_po_ART0003582248.pdf?contentNo=1&alternativeNo=
+- **Tokyo-fu banned women's short hair on Meiji 5/4/5 (11 May 1872).** CONFIRMED. Sakago 2016: 「女性の断髪禁止の最も早い例は，明治五年（一八七二）四月五日，東京府でだされたもの」. Sakago quotes the notice's text: 「…婦人女子，衣類ハモトヨリ男子トハ区別ノ御制度ニ候条，婦女子ノ儀ハ従前ノ通リ相心得…」. Nipponica (Kotobank 散髪脱刀令) confirms a 1872 Tokyo-fu 「婦女子散髪禁止」 notice. The Gregorian equivalent (11 May) comes from ja.wikipedia only, but it is consistent. https://senshu-u.repo.nii.ac.jp/record/6121/files/1021_0128_10.pdf ; https://kotobank.jp/word/%E6%95%A3%E9%AB%AA%E8%84%B1%E5%88%80%E4%BB%A4-514608
+- **藪の鶯 (1888) is regarded as the first modern novel by a Japanese woman.** CONFIRMED. Daijisen: 「東京高等女学校在学中の明治21年（1888）に刊行した処女小説。日本女性による初の近代小説とされる」. Nihon jinmei daijiten adds that it was published on Tsubouchi's recommendation. The month (June) comes from ja.wikipedia only. https://kotobank.jp/word/%E8%97%AA%E3%81%AE%E9%B6%AF-1820289 ; https://kotobank.jp/word/%E4%B8%89%E5%AE%85%E8%8A%B1%E5%9C%83-139518
+- **高等女学校令: Imperial Ordinance No. 31, 7 Feb 1899, in force 1 Apr 1899.** CONFIRMED. The Ōbunsha dictionary confirms an 1899 imperial ordinance (four-year course, entry from age 12). The number and days come from ja.wikipedia, which cites the Kanpō of 8 Feb 1899. https://kotobank.jp/word/%E9%AB%98%E7%AD%89%E5%A5%B3%E5%AD%A6%E6%A0%A1%E4%BB%A4-2129938
+- **革命 as "revolution": NKD's earliest example is Fukuzawa's 西洋事情, 「兵乱に由て俄に政府の革まるを革命と云ひ」, and Fukuzawa probably chose the word.** CONFIRMED (re-opened NKD sense ② and its 語誌 note). https://kotobank.jp/word/%E9%9D%A9%E5%91%BD-43816
+- **絵入自由新聞 founded 1 Sept 1882; its serial 「恋の革命」 has an illustration dated 14 Mar 1888.** UNVERIFIED for the 14 Mar 1888 date. The founding date is CONFIRMED by four Kotobank dictionaries. The serial's existence is supported by an article title in the NDL catalogue: 汲田美砂, 「自由民権運動と政治小説「戀の革命」」, 高知市立自由民権記念館紀要 28 (2024). The illustration date traces only to a Wikimedia Commons caption, whose cited source (a Machida City museum page) now returns 404.
+  - Correction to the report's "merged out of existence in 1890": the paper merged into 『雷新聞』 on 15 Nov 1890, was revived on 8 Apr 1892, and was absorbed by 『万朝報』 in Dec 1892.
+  - https://kotobank.jp/word/%E7%B5%B5%E5%85%A5%E8%87%AA%E7%94%B1%E6%96%B0%E8%81%9E-36023 ; https://ndlsearch.ndl.go.jp/books/R000000004-I033636222 ; https://commons.wikimedia.org/wiki/File:Eiri_jiyuu_sinbun_1.jpg
+- **日本社会党 founded 28 Jan 1906; Red Flag Incident 22 June 1908.** CONFIRMED, with one nuance. 28 Jan 1906 is the day Sakai Toshihiko's group filed its party registration and had it accepted. The party was formally launched at a joint congress with 日本平民党 on 24 Feb 1906 and was banned in Feb 1907. The Red Flag date and the 「無政府共産」 flag are confirmed by several Kotobank dictionaries. https://kotobank.jp/word/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E5%85%9A-110180 ; https://kotobank.jp/word/%E8%B5%A4%E6%97%97%E4%BA%8B%E4%BB%B6-24401
+- **Prince Heinrich was struck by a local man, 井田元吉, near Suita on 7 Feb 1880 ("A Prussian prince was beaten by a villager").** CORRECTED.
+  - The date (7 Feb 1880), the arrival at Yokohama (23 May 1879) and the apology ceremony on 14 Feb at the Osaka prefectural office and 吉志部神社 are all confirmed.
+  - The striking is not. Yamanaka Keiichi's detailed study (關西大學法學論集 67:1, 2017) uses police reports, diplomatic papers and Wippich 1999. In that record, Ida, aged 37, was the village's **watchman for the hunting ban**. He was beaten by the four Japanese beaters hired by Heinrich's party. Later the German merchant Kleinwächter flicked his nose and kicked him (an injury taking ten days to heal).
+  - Prussia's complaint was about "disrespect": the watchman and police followed and obstructed the party.
+  - Yamanaka notes that the version in which Ida 「皇孫を殴打」 comes from the local history 『郷土吹田の歴史』 (p.170). ja.wikipedia repeats that version.
+  - Correct wording: a hunting-ban watchman confronted the prince's party, was himself assaulted, and the Prussian side treated his conduct and the police's as an insult.
+  - Punishments: 3 patrolmen dismissed, 5 officers docked a month's pay, 5 removed from duty, plus action against newspaper editors.
+  - https://kansai-u.repo.nii.ac.jp/record/3959/files/KU-1100-20170518-03.pdf
+- **The first Japanese translation of the Arabian Nights was 永峰秀樹's 『暴夜物語』 (奎章閣, 1875).** CONFIRMED. NDL records date the first part to 1875.2. 樽本照雄's article is titled 「『暴夜物語』の底本――日訳最初の「アラビアン・ナイト」」. https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859772619672 ; https://ndlsearch.ndl.go.jp/books/R000000004-I6253273
+- **The first Grimm book in Japanese was 菅了法 (桐南居士), 『西洋古事神仙叢話』, 1887.** CONFIRMED. NDL: 集成社, 明20.4 (April 1887). The related 呉文聰 『八ツ山羊』 is also confirmed: 弘文社, 明20.9 (one record says 1887-07). https://ndlsearch.ndl.go.jp/books/R100000002-I000000523791 ; https://ndlsearch.ndl.go.jp/books/R100000002-I000000520299
+- **Tsubouchi's 1900 「おしん物語」 has Benten for the fairy godmother, a fan for the glass slipper, 若殿 for the prince, and a 6 p.m. deadline.** CONFIRMED. Noguchi Yoshiko (2023) dates it **30 Dec 1900**, in 冨山房 『国語読本』 高等小学校用 巻一. She lists the changes: 妖精→弁天様, 城→華族の別邸, 舞踏会→園遊会, 杖→扇, ガラスの靴→「波に白菊の絵柄」の扇, deadline 6 p.m. Her analysis calls the prince figure the 若殿. https://kpu.repo.nii.ac.jp/record/2000019/files/j_75_008.pdf
+- **小公子 was serialised in 女学雑誌 1890–92, with a book from 女学雑誌社 in 1891 and Hakubunkan's complete edition in 1897.** CONFIRMED. Kotobank: 「明治23年（1890）から同25年にかけて」. NDL: 女学雑誌社 [1891] and 1892.3; 博文館 1897.1. Wakamatsu's dates (1864–1896, Ferris 1882) are confirmed by Kotobank. One NDL authority heading gives her birth year as 1865, a variant. https://kotobank.jp/word/%E5%B0%8F%E5%85%AC%E5%AD%90-79178 ; https://kotobank.jp/word/%E8%8B%A5%E6%9D%BE%E8%B3%A4%E5%AD%90-153912 ; https://ndlsearch.ndl.go.jp/books/R100000094-I221450
+- **永遠: NKD ① earliest example is 西国立志編 (1870–71); ② earliest is 哲学字彙 (1881), 「Eternity 永遠」.** CONFIRMED. The 1881 date of 哲学字彙 is also borne out by the NDL-catalogued study by 許智香 (2014). https://kotobank.jp/word/%E6%B0%B8%E9%81%A0-35801 ; https://ndlsearch.ndl.go.jp/books/R100000136-I1010282257401603584
+- **"In Sept 1888 松岡好一 published exposés of 高島炭鉱; Inukai denied them; Matsuoka challenged him to a duel, with 三宅雪嶺 and 志賀重昂 as seconds."** CORRECTED on timing.
+  - The NDL Monthly (no. 670, Feb 2017) says 『日本人』 ran Matsuoka's report in **June 1888**, 『朝野新聞』 ran Inukai's piece defending the management in **August 1888**, and Matsuoka then challenged Inukai with Miyake and Shiga as seconds. The seconds are confirmed.
+  - Kotobank (Nihon jinmei daijiten) confirms the 1888 exposé and the dispute with Inukai.
+  - Inukai's reply, 「野蛮な遺風」, remains UNVERIFIED. It appears only in ja.wikipedia.
+  - https://dl.ndl.go.jp/view/download/digidepo_10268624_po_geppo1702.pdf?contentNo=1 ; https://kotobank.jp/word/%E6%9D%BE%E5%B2%A1%E5%A5%BD%E4%B8%80-1110078
+- **光妙寺三郎 (1847–93) argued 「決闘は文明の華」 at the 3rd five-law-school debate on 30 Sept 1888.** CORRECTED for his dates of life only.
+  - The event is CONFIRMED. NDL Monthly: 「明治21（1888）年9月30日の東京府下5大法律学校による討論会」, where he declared that a duel fought fairly over honour is 「文明の花」. The NDL spelling is **花**, not 華.
+  - His birth year is **1849**, per the NDL authority heading (光妙寺, 三郎, 1849-1893), the NDL Monthly and Nihon jinmei daijiten (嘉永2年8月生, d. 明治26年9月27日). The year 1847 is from ja.wikipedia only.
+  - He published 『争也君子 決闘条規』 (明法堂) in Jan 1889.
+  - https://dl.ndl.go.jp/view/download/digidepo_10268624_po_geppo1702.pdf?contentNo=1 ; https://kotobank.jp/word/%E5%85%89%E5%A6%99%E5%AF%BA%E4%B8%89%E9%83%8E-1074337 ; https://ndlsearch.ndl.go.jp/books/R100000002-I000000448947
+- **決闘罪ニ関スル件 is Law No. 34 of Meiji 22, promulgated 30 Dec 1889, with the penalties as stated, and is still in force.** CONFIRMED from the e-Gov statute data (promulgation_date 1889-12-30).
+  - Penalties: art. 1, challenging or accepting, 6 months–2 years; art. 2, fighting, 2–5 years; art. 4, seconds and knowingly providing a venue, up to 1 year; art. 5, defaming someone for refusing, punished as defamation.
+  - Note: since 1 June 2025 the penalty term in the text is 拘禁刑, no longer 懲役.
+  - https://laws.e-gov.go.jp/law/122AC0000000034 (data via https://laws.e-gov.go.jp/api/1/lawdata/122AC0000000034)
+- **魔女: NKD's earliest example in the European-witch sense is Ōgai's 青年 (1910–11); the Buddhist reading まにょ goes back to 沙石集 (1283).** CONFIRMED (re-opened NKD). https://kotobank.jp/word/%E9%AD%94%E5%A5%B3-136187
+- **"The first complete translation of *Macbeth* is Ōgai's of 1913."** UNVERIFIED as a "first complete" claim. The book itself is confirmed: NDL has マクベス, tr. 森林太郎, 警醒社, 大正2年7月. But the cited abstract says only "After Ogai Mori first translated the play in 1913." No source opened here establishes that no complete translation existed earlier. Tsubouchi's annotated 「マクベス評釈」 (早稲田文学, from 1891), which set off his 1891–92 debate with Ōgai, is from memory and should be checked before relying on "first." https://ndlsearch.ndl.go.jp/books/R100000002-I000000563112 ; https://www.jaseus.org/kiyou/kikangou/031,%20032/031,%20032_08.html ; https://kotobank.jp/word/%E6%B2%A1%E7%90%86%E6%83%B3%E8%AB%96%E4%BA%89-630865
+- **Fourth Urakami persecution: 3,394 exiled, 662 died; anti-Christian notice boards removed 24 Feb 1873.** CORRECTED. The figures differ by source and should not be given as exact:
+  - Sekai Daihyakka and Yamakawa (Kotobank): **3,384** people sent in 1870 to 20 domains west of Nagoya.
+  - Another Kotobank dictionary: about 3,400.
+  - ja.wikipedia: 3,394 exiled, 662 dead.
+  - en.wikipedia: 3,414 exiled, about 680 dead.
+  - Suggested wording: "about 3,400 exiled to twenty domains; more than 600 died."
+  - The removal of the notice boards and the release of prisoners in 1873 are confirmed. The exact day (24 Feb) comes from ja.wikipedia only.
+  - https://kotobank.jp/word/%E6%B5%A6%E4%B8%8A%E5%B4%A9%E3%82%8C-441762 ; https://kotobank.jp/word/%E6%B5%A6%E4%B8%8A%E5%9B%9B%E7%95%AA%E5%B4%A9%E3%82%8C-1737963 ; https://en.wikipedia.org/wiki/Urakami_Yoban_Kuzure
+- **The 1911 親不知 double suicide of two girls'-school graduates, headlined 「恐るべき同性の愛」 (Yomiuri) and 「極端なる同性の愛」 (Tokyo Asahi), both 31 July 1911.** CONFIRMED. ja.wikipedia エス (文化) independently confirms the 1911 Niigata schoolgirl double suicide as the turning point. The headlines and dates were re-read in the Rikkyo paper. https://ja.wikipedia.org/wiki/エス_(文化) ; https://rikkyo.repo.nii.ac.jp/record/15089/files/AA11427614_18_03.pdf
+- **"The 違式詿違条例 (Tokyo, lunar Meiji 5/11 = late 1872) prohibited men dressing as women and women as men" (flagged uncertain).** CORRECTED. Sakago Tomomi, 「「違式詿違条例」のなかのジェンダー」, 専修法学論集 128 (2016), gives the article text: 「男ニシテ女粧シ女ニシテ男粧シ或ハ奇怪ノ粉飾ヲ為シテ醜体ヲ露ス者 但シ俳優歌舞伎等ハ勿論女ノ着袴スル類此限ニ非ス」 (違式).
+  - This article was **not** in the original Tokyo ordinance of Meiji 5/11 (54 articles, in force 13 Nov). Nor was it among articles 55–61, which were added before July 1873.
+  - It first appeared in the national model 「地方違式詿違条例」 (太政官布告第256号, **19 July 1873**). It was **added to the Tokyo ordinance on 12 Aug 1873**.
+  - The 1872 Tokyo ordinance did contain 詿違 article 39, 「婦人ニテ謂レナク断髪スル者」 (women cutting their hair without cause).
+  - The cross-dressing ban expressly **exempted actors and kabuki, and women wearing hakama**. Sakago links the hakama exemption to girls' schools.
+  - https://senshu-u.repo.nii.ac.jp/record/6121/files/1021_0128_10.pdf (NDL record: https://ndlsearch.ndl.go.jp/books/R000000004-I027869757)
+- **The first Japanese Andersen was 「オウサマノアタラシキイショウ」 in Meiji 19 (1886); an 1888 女学雑誌 adaptation by Iwamoto, 「不思議の新衣裳」 (flagged uncertain).** CONFIRMED, and the open question is resolved:
+  - Yasuoka Shunjirō, "Ō no atarashiki ishō," *Rōmaji zasshi* 1:18, **10 Nov 1886**, in romanised Japanese.
+  - 孩堤の翁 (= 巌本善治), 「不思議の新衣裳」, 『女学雑誌』 no. 100–101, **10 and 17 Mar 1888**. This was long regarded as the first.
+  - The first book: 在一居士 (= 高橋五郎), 『諷世奇談 王様の新衣装』, 春祥堂, **19 Dec 1888**.
+  - https://ja.wikipedia.org/wiki/裸の王様
+
+## Additional facts found while verifying
+
+- **The 1873 cross-dressing article explicitly allowed women to wear hakama.** The exemption reads 「女ノ着袴スル類此限ニ非ス」. Women who had a reason for short hair, or nuns letting their hair grow back, could apply for a police certificate (Tokyo-fu notice of 19 Feb 1873, signed by 大久保一翁). They had to carry it until their hair could be dressed again. The 詿違 penalty was at first a fine of 6.25–12.5 sen, or 1–2 days' detention. Sakago 2016, above.
+- **Press hostility to schoolgirls in men's dress in 1872.** 『新聞雑誌』 (Meiji 5/3) called women's cropped hair 「醜体陋風」. The same article complained of **female students wearing men's hakama and geta**, calling both 「文化開化ノ弊」. 『日要新聞』 (Meiji 5/2) blamed short-haired women on teahouse waitresses and 「おてんば」. Sakago 2016.
+- **Hakama at the women's normal school.** Students of the Tokyo Women's Normal School (1875) inherited the 東京女学校 hakama: striped cotton, government-issued. Hakama and the school hairpin were dropped around 1879. By 1885 (per 女学雑誌) many of its students and teachers wore Western dress. Iwasaki 1993, above.
+- **Meiji renderings of Cinderella's prince (Noguchi 2023).**
+  - The first Japanese Cinderella was 「新貞羅」 in the 郵便報知新聞, 29–30 Dec 1886, probably by 矢野龍渓. In it the prince is a **公子**, and the heroine becomes his **貴妃** (a secondary consort), not his queen.
+  - Other Meiji versions render the prince as 城主 (Suga 1887), 皇太子/皇子/太子 (two 1891 versions), 公子 (1896), 公達 (1899) and 若殿 (1900). 王子 is established only in 1909 (「真珠姫」).
+  - Noguchi counts twelve Meiji Cinderella translations: nine from Perrault, three from Grimm.
+  - This supports the report's "no settled word" conclusion. In the mid-1880s the most likely word was **公子**. https://kpu.repo.nii.ac.jp/record/2000019/files/j_75_008.pdf
+- **The 1886 Andersen used 王 (Ō), "king"; 女学雑誌's 1888 version used 新衣裳; the first book was by 高橋五郎.** 高橋五郎 is the same man as the Catholic gospel translator in §9. ja.wikipedia 裸の王様.
+- **少年世界's girls' column ran only from 1895 to 1897.** The label 「少女小説」 first appears there in 1897. Girls' material returned only with vol. 9 (1903), after the 高等女学校令 (Kume 2013 summary).
+- **The 1888 duel debate.** The debate question was a hypothetical duel case, set (it is suggested) by someone close to 政教社, the 『日本人』 group. That links it directly to the Matsuoka–Inukai affair. The 1882 penal code had no explicit duel provision, which is why the 1889 law was needed. Kōmyōji, a Paris law graduate (Feb 1878, the first Japanese to take the degree there), died poor. His geisha companion 米八 became the shinpa actress 千歳米坡. NDL Monthly 670.
+- **Also re-checked outside the 25 and CONFIRMED.**
+  - 女学雑誌: 20 July 1885 – 15 Feb 1904, 526 numbers (548 volumes). Dictionaries disagree on whether Iwamoto took over as editor from no. 24 (Daijisen) or no. 30 (NKD, Sekai Daihyakka).
+  - みだれ髪: Aug 1901, 東京新詩社, 399 poems, design and illustrations by 藤島武二 (Kotobank; the day, 15 Aug, is from ja.wikipedia).
+  - 少女世界: first issue Sept 1906 (ja.wikipedia 少女世界).
+  - https://kotobank.jp/word/%E5%A5%B3%E5%AD%A6%E9%9B%91%E8%AA%8C-80055 ; https://kotobank.jp/word/%E3%81%BF%E3%81%A0%E3%82%8C%E9%AB%AA-138781
+- **Weak sourcing of the 1886 「新貞羅」 in ja.wikipedia.** ja.wikipedia シンデレラ cites the 1886 「新貞羅」 to a page it marks 出典無効 (invalid source). Noguchi 2023 now gives a proper source for it: 郵便報知新聞, 29–30 Dec 1886, 「倫敦の年始芝居」.
+- **Still unverified after this pass.**
+  - The John 3:16 wording in the Meiji and Taishō Bibles (Wikisource pages unreachable).
+  - Hakushū's 「薔薇二曲」 placement.
+  - The Sun Yat-sen 革命党 anecdote.
+  - The 1873 神子禁止令 date.
+  - The origin of 白馬の王子.
+  - These were not re-checked for lack of search access.

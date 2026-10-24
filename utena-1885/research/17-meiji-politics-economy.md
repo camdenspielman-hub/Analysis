@@ -542,3 +542,172 @@ https://ja.wikipedia.org/wiki/国家神道
 - **Rumours not checked.** The rumour that 伊藤 assaulted 戸田極子 at the 1887 ball, and the story that 森有礼's assassin was avenging an insult at Ise Shrine, are both well known but were not checked this session.
 - **The Kokkai petition delivery date.** "4月17日" (Sekai, 愛国社 entry) versus Nipponica, which says the petition was drafted on 4月8日 and refused by both the 太政官 and the 元老院.
 - **Tenpō-era and other unprinted conversions.** Where a source gave only the lunar date I either left it or marked my computation. 加藤弘之 天保7年6月23日 (my computation: about 5 August 1836) and 堺為子 明治5年5月19日 (my computation: about 24 June 1872, ±1 day) are not taken from a source.
+
+---
+
+## Verification pass
+
+Re-checked 2026-10-24 by an adversarial second pass. I opened every page listed below in full, fetching it with curl and converting it to text; nothing comes from a search snippet. The WebSearch budget was already used up, so I reached pages by their direct address only (Wikipedia titles, Wikisource, Kotobank word redirects). Wherever I could, I used a page other than the one the report cites.
+
+Verdicts:
+- **CONFIRMED** means a page I opened agrees, and it is a different page from the cited one unless I say otherwise.
+- **CORRECTED** means a page I opened shows the claim is wrong.
+- **UNVERIFIED** means I found no second page that settles it.
+
+1. **民撰議院設立建白書 (1874).** Claim: the 愛国公党 was founded on 1874年1月12日 and the memorial went to the 左院 on 1月17日; the signers included 由利公正, 岡本健三郎, 古沢滋 (the drafter) and 小室信夫. **CONFIRMED.** ja.wiki 自由民権運動 gives both dates. Each of the four men's Kotobank biographies records his part: 古沢 drafted the memorial at 板垣's request, and the other three signed it. https://ja.wikipedia.org/wiki/自由民権運動 ; https://kotobank.jp/word/古沢滋-127228 ; https://kotobank.jp/word/小室信夫-836305 ; https://kotobank.jp/word/岡本健三郎-1062343 ; https://kotobank.jp/word/由利公正-22203
+2. **The fourth 愛国社 congress and the 国会期成同盟 (1880).** Claim: the congress opened in Osaka on 1880年3月15日 and the League was formed on 3月17日. **The opening date is CONFIRMED; the 3月17日 founding date is UNVERIFIED.** ja.wiki 国会期成同盟 says the congress opened at the 喜多福亭 on 3月15日, moved to the 太融寺 on 3月17日 and sat until 4月9日, with 114 delegates from 2府22県 bringing about 87,000 signatures. ja.wiki dates 3月17日 only as the move to 太融寺, not as the day the League was formed; that date still rests on Nipponica alone. https://ja.wikipedia.org/wiki/国会期成同盟
+3. **集会条例 and its successor.** Claim: the 集会条例 dates from 1880年4月5日, and the 集会及政社法 from 1890年7月25日. **CONFIRMED.** The ordinance was 太政官布告第12号. It was tightened in 1882, and on 1882年6月10日 the Education Ministry used it to forbid students' academic speeches. https://ja.wikipedia.org/wiki/集会条例
+4. **The 区町村会法 and Kōchi's female voters.** Claim: "the 区町村会法 of 1880年9月20日". **CORRECTED.**
+   - The 区町村会法 is 明治13年**4月8日** 太政官布告第18号. Its Article 2 let each ward, town and village draw up its own assembly rules, subject to the governor's approval.
+   - The September 1880 date belongs to the 上町 rules made under the law. en.wiki says the law was "put into effect in September 1880". The "1880年9月20日" in ja.wiki 楠瀬喜多 runs the law and the local rules together.
+   - The 1884 rollback is **CONFIRMED**. The revised law (太政官布告第14号, 明治17年5月7日) gave rule-making to the governors (Art. 2) and limited voters to men aged 20 or over who lived in the locality and paid land tax there (Art. 9).
+   - That 上町 was first in Japan and 小高坂村 followed is **CONFIRMED** by en.wiki.
+
+   https://ja.wikisource.org/wiki/區町村會法_(明治13年太政官布告第18号) ; https://ja.wikisource.org/wiki/區町村會法 ; https://en.wikipedia.org/wiki/Kusunose_Kita
+5. **The Hokkaido Colonization Office scandal (開拓使官有物払下げ).** Claim: 黒田 arranged to sell assets "on which the state had spent 14 million yen to the Satsuma merchant 五代友厚 for 380,000 yen, payable over 30 years". **CORRECTED.**
+   - The terms are confirmed: 387,082 yen, interest-free, over 30 years.
+   - The main buyer was the **北海社**, a company of Colonization Office officials led by 安田定則. It was to receive ships, land, buildings, farms and breweries.
+   - 五代's 関西貿易社 applied only for the 岩内 coal mine and the 厚岸 forests. 黒田's request to the cabinet named neither 五代 nor his firm.
+   - The 『東京横浜毎日新聞』 of 7月26日 and other papers reported it as a sale to 五代, and textbooks still tell it that way.
+   - The investment figure varies: ja.wiki puts it at about 15 million yen, and ja.wiki 明治天皇 says the assets had a real value of about 3 million yen.
+
+   https://ja.wikipedia.org/wiki/開拓使官有物払下げ事件 ; https://ja.wikipedia.org/wiki/明治天皇
+6. **The crisis of 1881.** Claim: 大隈 was dismissed on 10月11日, and the rescript of 10月12日 promised a Diet in 明治23年. **CONFIRMED.** The emperor returned on 10月11日 and was met by 岩倉 at 千住. That same day the ministers and councillors agreed to dismiss 大隈 and petitioned the emperor. On 10月12日 the sale was cancelled and the rescript issued. ja.wiki describes this as a private agreement followed by a joint petition, not a formal 御前会議. https://ja.wikipedia.org/wiki/明治十四年の政変 ; https://ja.wikipedia.org/wiki/帝国議会
+7. **自由党 founding date (flagged uncertain) and dissolution.** **CONFIRMED: both dates are right, for different events.**
+   - The founding congress opened on **1881年10月18日** at the 浅草井生村楼.
+   - On **10月29日** it adopted the 盟約, the rules and the officers (総理 板垣, 副総理 中島信行). 板垣 and others accepted office only on 11月9日.
+   - The party was dissolved on 1884年10月29日 at a congress in Osaka; this is confirmed by ja.wiki and by Britannica in Kotobank.
+   - The membership figures (101 at founding, 2,224 in May 1884) remain Nipponica-only.
+
+   https://ja.wikipedia.org/wiki/自由党_(日本_1881-1884) ; https://kotobank.jp/word/自由党-77250
+8. **立憲改進党 founded 1882年4月16日 (flagged uncertain).** **CONFIRMED.** The prospectus (趣意書) was published on 3月14日, which explains 山川's "March 1882". The founding ceremony was held at the 明治会堂 on 4月16日, with 総理 大隈 and 副総理 **河野敏鎌**. https://ja.wikipedia.org/wiki/立憲改進党
+9. **板垣 stabbed in Gifu on 1882年4月6日.** **CONFIRMED.** https://en.wikipedia.org/wiki/Itagaki_Taisuke
+10. **福島事件.** **CONFIRMED, with one figure corrected.** ja.wiki confirms:
+    - the labour levy on men and women aged 15–60 (one day a month for two years, or 15銭 a day for men and 10銭 for women);
+    - the gathering at 弾正ヶ原 on 11月28日 and the march on the 喜多方 police station;
+    - about 2,000 arrests;
+    - 河野広中's sentence of 軽禁獄7年 and five others' sentences of 6年.
+
+    ja.wiki puts the crowd at "千数百人" (a little over a thousand), not "several thousand". https://ja.wikipedia.org/wiki/福島事件
+11. **加波山事件.** The date (1884年9月23日), the 16 men and the 7 death sentences are **CONFIRMED** by Kotobank (Nipponica, Sekai, Britannica, Yamakawa) and by ja.wiki. **The "7 life terms" are UNVERIFIED because the sources conflict.** Nipponica and Sekai give 7 無期 (Sekai adds 4 有期徒刑). ja.wiki gives 3 無期懲役 and says one of the condemned died in prison before execution. https://ja.wikipedia.org/wiki/加波山事件 ; https://kotobank.jp/word/加波山事件-46064
+12. **秩父事件: "Seven rebels were executed" (and, under "Uncertain", "All agree on 7 executions").** **CORRECTED.**
+    - Seven were sentenced to death: 田代栄助, 加藤織平, 新井周三郎, 高岸善吉, 坂本宗作, 菊池貫平 and 井上伝蔵.
+    - 井上 and 菊池 were sentenced in absentia. 井上 escaped to Hokkaido, lived as 伊藤房次郎 and died on 1918年6月23日. 菊池 was caught later; his sentence was commuted to life, he was released in 1905 and he died in 1914.
+    - So **five** were executed. 田代 was executed on 明治18年5月17日 (Kotobank's 政治家人名事典; Britannica gives 5月18日, at Kumagaya).
+    - The number punished also varies: ja.wiki gives about 14,000; 精選版日本国語大辞典 gives 296 serious offences, 448 minor offences and 2,642 fines.
+    - The dates of the rising (10月31日 to 11月9日) are confirmed.
+
+    https://ja.wikipedia.org/wiki/秩父事件 ; https://kotobank.jp/word/井上伝蔵-818284 ; https://kotobank.jp/word/菊池貫平-1068799 ; https://kotobank.jp/word/田代栄助-93313 ; https://kotobank.jp/word/秩父事件-96257
+13. **岸田俊子's 「箱入娘」 speech in Ōtsu, 1883年10月12日.** **CONFIRMED.** en.wiki says the speech was delivered on 12 October 1883 and that she was arrested in Ōtsu, tried and fined for a political speech without a permit. 日本人名大辞典 (Kotobank 中島俊子) dates the 「函入娘」 speech in 滋賀 to 明治16 and says she was jailed (投獄). The same entry gives her marriage to 中島信行 as 明治18 (1885) and her death as 明治34年5月25日, siding with ja.wiki on two of the flagged uncertainties. https://en.wikipedia.org/wiki/Kishida_Toshiko ; https://kotobank.jp/word/中島俊子-587784
+14. **保安条例.** **CONFIRMED.**
+    - 勅令第67号, 1887年12月25日, 7 articles, in force the same day.
+    - Article 4 allowed banishment beyond 3里 (about 11.8 km) for up to three years.
+    - **570** people were ordered out between the night of 12月26日 and 12月28日, 224 of them from Tosa.
+    - It was abolished on 1898年6月25日.
+
+    ja.wiki lists 星亨 among those who refused to leave and were jailed at 石川島, together with 片岡健吉, 西山志澄 and others. https://ja.wikipedia.org/wiki/保安条例
+15. **The Constitution and 森有礼's assassination.** **CONFIRMED.**
+    - The Constitution was promulgated on 1889年2月11日 and took effect on 1890年11月29日.
+    - The final draft had 7 chapters and 76 articles. Earlier drafts: the 夏島草案 of August 1887 (7章89条); 井上毅's 甲案 (7章72条) and 乙案 (8章79条); Roesler's draft (8章95条).
+    - 森 was stabbed by 西野文太郎 on 2月11日 as he left for the ceremony, and died at 5 a.m. on 2月12日.
+
+    https://ja.wikipedia.org/wiki/大日本帝国憲法 ; https://ja.wikipedia.org/wiki/森有礼 ; https://en.wikipedia.org/wiki/Mori_Arinori
+16. **1890 electorate and turnout (turnout flagged).** **CONFIRMED** on a different page from the en.wiki one cited.
+    - ja.wiki gives 450,872 voters, about 1.13% of 39,933,478.
+    - Its results table, citing 議会制度百年史 and the Statistics Bureau, gives 422,594 voters (93.73%) and 28,278 abstentions.
+    - The same article's infobox says **93.91%**, the figure most Japanese summaries quote. Neither page explains the gap, so name the source for whichever figure is used.
+
+    https://ja.wikipedia.org/wiki/第1回衆議院議員総選挙
+17. **The first Diet.** **CONFIRMED.**
+    - It was convened on 1890年11月25日, and the opening ceremony was held on 11月29日 (Britannica, Kotobank 第1議会).
+    - 中島信行 was the first Speaker and 津田真道 the first Vice-Speaker (several dictionaries in Kotobank).
+    - The session closed on **1891年3月7日**, per the session table in ja.wiki 帝国議会. This settles the flagged item.
+
+    https://kotobank.jp/word/第1議会-1357508 ; https://kotobank.jp/word/中島信行-17271 ; https://kotobank.jp/word/津田真道-19166 ; https://ja.wikipedia.org/wiki/帝国議会
+18. **The temporary Diet building burned on 1891年1月20日.** **CONFIRMED.** According to ja.wiki 国会議事堂:
+    - the fire broke out before dawn in the lower house's government-delegates' room and was blamed on a short circuit;
+    - the Peers moved to the 鹿鳴館 and then the Imperial Hotel, and the lower house to the 東京女学館 (the former 工部大学校);
+    - 東京電燈 sued, lost, and its whole board resigned.
+
+    https://ja.wikipedia.org/wiki/国会議事堂
+19. **The Rescript on Education.** **CONFIRMED, with a caveat on the virtue count.**
+    - It was issued on 1890年10月30日 and printed in the 官報 of 10月31日. 井上毅 drafted it with 元田永孚, and it carried no ministerial countersignature.
+    - **I counted the characters myself**: 315, from 朕惟フニ to 庶幾フ, leaving out the date and 御名御璽.
+    - "14 virtues" is Nipponica's count, which ja.wiki quotes. ja.wiki also says prewar commentaries divided the text into anywhere from 9 to 16 virtues, and that the count most people know today is **12**, from the 明治神宮 commentary of 1973. The number of virtues is an interpretation, not a fact about the text.
+
+    https://ja.wikipedia.org/wiki/教育ニ関スル勅語
+20. **The 内村鑑三 lèse-majesté incident, 1891年1月9日.** **CONFIRMED.** At the reading ceremony at the 第一高等中学校, he declined to bow before the Rescript bearing the emperor's signature. He lost his post, and so did one colleague who defended him. https://kotobank.jp/word/内村鑑三不敬事件-1148288
+21. **森有礼's contract marriage.** **CONFIRMED.** 日本人名大辞典 says he and 広瀬常 married in 明治8 under a contract of marital equality, with 福沢 as witness (証人) and 大久保一翁 as officiant (立会人), and that they divorced by mutual consent in 明治19 (1886). The exact day (2月6日) and the claims of the "first marriage registration" and "first divorce registration" rest on ja.wiki 森有礼 alone. https://kotobank.jp/word/広瀬常-1104339 ; https://ja.wikipedia.org/wiki/森有礼
+22. **Matsukata deflation: paper money fell from 170 million yen (January 1880) to 125 million yen (May 1884).** **UNVERIFIED.** Only the cited Nipponica page gives these numbers. ja.wiki 松方デフレ uses a different series: notes of 1.5億円 against 0.1億円 of silver (8%) in fiscal 1881, and 1.2億円 against 0.45億円 (37%) in fiscal 1885. The two agree on direction but not on base. https://ja.wikipedia.org/wiki/松方デフレ
+23. **The Bank of Japan, silver notes and the gold standard.** **CONFIRMED.**
+    - Bank of Japan, per ja.wiki 日本銀行:
+      - Chartered under the 日本銀行条例 (太政官布告第32号) of 1882年6月27日.
+      - 吉原重俊 appointed governor on 10月6日.
+      - Licence granted on 10月9日, with a capital of 10 million yen, half from the government.
+      - Opened for business on **10月10日**.
+      - The 兌換銀行券条例 followed on 1884年5月26日.
+    - Silver notes and gold standard, per ja.wiki 貨幣法:
+      - The bank's silver-convertible notes were issued from **1885年5月9日**.
+      - The 貨幣法 was promulgated on **1897年3月29日** and took effect on 10月1日.
+      - It defined the yen as 純金2分. The wording "750 mg" dates only from the 1933 amendment.
+
+    https://ja.wikipedia.org/wiki/日本銀行 ; https://ja.wikipedia.org/wiki/貨幣法
+24. **The Tomioka mill.** **CONFIRMED, except the 404 figure.**
+    - Nipponica: reeling began on 1872年（明治5）10月4日 (the lunar date; 11月4日 in the Gregorian calendar), with 300 basins.
+    - Recruitment began in March 1872 in five prefectures. Few came, so 尾高惇忠 brought in his 13-year-old eldest daughter and others from his home district.
+    - Britannica: most of the workers were daughters of former samurai. The mill was sold to 三井 in 1893.
+    - "404 workers by January 1873" is **UNVERIFIED**.
+
+    https://kotobank.jp/word/富岡製糸場-105820
+25. **Osaka Spinning (大阪紡績).** **CONFIRMED, except the electric light.** Yamakawa (Kotobank) calls it Japan's first spinning firm on the 10,000-spindle scale, with a capital of 250,000 yen, opening in 1883. ja.wiki 東洋紡 dates its founding to May 1882. The day-and-night shifts under electric light are **UNVERIFIED** by a second page. https://kotobank.jp/word/大阪紡績-3132143 ; https://ja.wikipedia.org/wiki/大阪紡績
+
+**Further claims checked beyond the 25:**
+- **The Rokumeikan (鹿鳴館).** The opening on 1883年11月28日 is **CONFIRMED**, and Sekai quotes the 東京日日新聞 of that day. The fancy-dress ball of 1887年4月20日 at Prime Minister 伊藤's official residence is also **CONFIRMED**. Two details are **CORRECTED**:
+  - Construction began in **1881** (January 1881 per Nipponica; Sekai and Yamakawa also give 1881), not 1880.
+  - Sekai's "1,200" counts invitations sent (招待状は1200余通), not guests present.
+
+  https://kotobank.jp/word/鹿鳴館-152691
+- **Succession by sons of concubines under the 1889 Imperial House Law (flagged uncertain).** **CONFIRMED.** Article 4 reads 「皇子孫ノ皇位ヲ繼承スルハ嫡出ヲ先ニス皇庶子孫ノ皇位ヲ繼承スルハ皇嫡子孫皆在ラサルトキニ限ル」, and Article 8 applies the same rule among brothers. https://ja.wikisource.org/wiki/皇室典範_(明治二十二年二月十一日)
+- **嘉仁's birth.** He was born at 8:12 a.m. on 1879年8月31日, at the 青山御所, to the 権典侍 柳原愛子. He was the only son of the Meiji emperor to reach adulthood. **CONFIRMED.** https://ja.wikipedia.org/wiki/大正天皇
+- **『女大学評論』 and 『新女大学』 (flagged).** That both ran in 『時事新報』 in 1899 (明治32) is **CONFIRMED** by the reference list in ja.wiki 女大学. That article's own text, however, dates 新女大学 to 1898. Keio's "1900" remains unexplained. https://ja.wikipedia.org/wiki/女大学
+- **『女学雑誌』.** It ran from July 1885 to February 1904, in 526 numbers and 548 volumes, and is called Japan's first real women's magazine. **CONFIRMED.** https://kotobank.jp/word/女学雑誌-80055
+- **The High Treason Incident (大逆事件).** **CONFIRMED** in full:
+  - the trial opened on 1910年12月10日;
+  - on 1911年1月18日, 24 were sentenced to death and 2 to prison;
+  - 12 were commuted on 1月19日;
+  - 11 were hanged on 1月24日 and 管野 on 1月25日.
+
+  https://ja.wikipedia.org/wiki/幸徳事件
+- **Shimonoseki and the Triple Intervention.** **CONFIRMED:**
+  - the Treaty of Shimonoseki was signed on 17 April 1895, with an indemnity of 200 million Kuping taels;
+  - the Triple Intervention came on 23 April 1895;
+  - Japan received a further 30 million taels for the Liaodong Peninsula;
+  - the retrocession convention was signed on 8 November 1895.
+
+  https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki ; https://en.wikipedia.org/wiki/Triple_Intervention
+- **治安警察法 Article 5.** **CONFIRMED.** The amendment letting women attend and organise political meetings was promulgated on 1922年4月20日. The ban on women joining political associations stayed. https://ja.wikipedia.org/wiki/治安警察法
+- **The Empress in Western dress (1886) and her memorandum (1887).** **CONFIRMED in substance** by Kotobank: she first went out in Western clothes at the 華族女学校 **graduation ceremony** in 1886, wore Western court dress at the New Year rites of 1887, and that year issued a 思召 saying Western clothes made movement easier. The exact dates (1886年7月30日 and 1887年1月17日) are **UNVERIFIED** by this second page. https://kotobank.jp/word/昭憲皇太后-18321
+- **Exports by commodity, 1880/1890/1900 (flagged).** Still **UNVERIFIED**. The Statistics Bureau's 日本長期統計総覧 pages now return 404, and neither ja.wiki 製糸業 or 生糸 nor en.wiki "Economic history of Japan" gives yearly shares.
+- **The 1890 rule barring women from the Diet gallery (flagged).** Still **UNVERIFIED**. ja.wiki 清水紫琴, 矢島楫子, 日本キリスト教婦人矯風会, 女性参政権 and 婦人参政権運動 are all silent on it.
+
+## Additional facts found while verifying
+
+- **The Meiji emperor's time of death.** The official time is 1912年7月30日 at 0:43 a.m. According to the 宮内書記官 栗原広太, he actually died at 22:43 on 7月29日. The time was moved two hours later so that the 践祚 could take place on the official day of death, since only about an hour of 7月29日 remained. Sekai daihyakka and 日本人名大辞典 give 7月29日. Section 7's "died 1912年7月30日 at 0:43 a.m." is the official time, not the actual one. https://ja.wikipedia.org/wiki/明治天皇 ; https://kotobank.jp/word/明治天皇
+- **Concubines in law after 1882.** The two sources describe the change differently, but they are compatible:
+  - Sekai daihyakka (Kotobank 妾): the old Penal Code, in force from 1882, ended concubines' standing as spouses, and their registration was abolished soon afterwards.
+  - ja.wiki 妾: concubines registered before 1882 kept their status, and the word 妾 left the registers only with the 1898 戸籍法.
+  - Read together: no new concubines were entered as kin after 1882, but existing entries lasted until 1898.
+  - The old Penal Code itself was 1880年7月17日 太政官布告第36号.
+
+  https://kotobank.jp/word/妾-78787 ; https://ja.wikipedia.org/wiki/妾
+- **Motive for 森有礼's murder.** en.wiki says 西野 was outraged by Mori's alleged disrespect at Ise Shrine two years earlier: not removing his shoes, and lifting a sacred curtain with his stick. These are allegations, and only en.wiki gives them, but this partly answers the "Rumours not checked" item. https://en.wikipedia.org/wiki/Mori_Arinori
+- **Signatures in 1880.** ja.wiki 国会期成同盟 gives about 87,000 signatures from 114 delegates of 2府22県 at the March congress. The second congress (Tokyo, 1880年11月10日) had 64 delegates and about 130,000 signatures. https://ja.wikipedia.org/wiki/国会期成同盟
+- **The 1884 revision of the 区町村会法.** Voters had to be men aged 20 or over, resident in the locality and paying land tax there; candidates had to be men aged 25 or over (Arts. 9–10). Local rules were now set by the governor. https://ja.wikisource.org/wiki/區町村會法
+- **The Hokkaido sale scandal, timeline.** The cabinet request went in on 7月21日 1881. The 『東京横浜毎日新聞』 exposed it on 7月26日, the emperor sanctioned it on 7月30日, the day he left on his tour, and it was made public on 8月1日. https://ja.wikipedia.org/wiki/明治十四年の政変
+- **立憲改進党 deputy leader.** The 副総理 was **河野敏鎌**, not 河野広中. https://ja.wikipedia.org/wiki/立憲改進党
+- **自由党 in 1884.** At its congress of 1884年3月13日 the party gave 板垣 special powers to act on his own, and set up the 文武館 (later named 有一館). Its first 常議員 were 馬場辰猪, 末広重恭, 後藤象二郎 and 竹内綱. https://ja.wikipedia.org/wiki/自由党_(日本_1881-1884)
+- **The 保安条例 after 1887.** It was used again on 1891年1月13日, during the first Diet, against 54 壮士 (political toughs), and on 2月11日 against 8 more. https://ja.wikipedia.org/wiki/保安条例
+- **Tomioka's workforce.** By 1893 its women workers had come from 3府37県 and from Hokkaido. At the start, four French women instructors taught the work (Nipponica). https://kotobank.jp/word/富岡製糸場-105820
+- **Gold content of the yen.** It was 1.5 g of gold under the 1871 新貨条例 and 2分 (0.75 g) under the 1897 貨幣法, so the gold content was halved, and old gold coins circulated at twice face value. https://ja.wikipedia.org/wiki/貨幣法
+- **Chichibu casualties.** Five police officers were killed in the rising. https://ja.wikipedia.org/wiki/秩父事件
+- **Method note.** Fetch scripts and the saved page texts are in /tmp/claude-0/-home-user-Analysis/40cee826-a058-55f9-a0a9-cef96c627a3d/scratchpad/agents/verify-politics/ (bin/ and pages/).
