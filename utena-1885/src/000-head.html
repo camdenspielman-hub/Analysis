@@ -207,13 +207,27 @@ th, td { text-align: left; vertical-align: top; padding: .55rem .7rem; border-bo
 thead th { font-variant: all-small-caps; letter-spacing: .08em; font-weight: 600; color: var(--ink-2); background: var(--paper-2); position: sticky; top: 0; }
 tbody tr:last-child td { border-bottom: 0; }
 td .jp, th .jp { font-size: 1.04em; }
-.conc td:nth-child(1) { font-family: var(--display); color: var(--red); white-space: nowrap; }
-.conc td:nth-child(2) { min-width: 13rem; }
-.conc td:nth-child(3) { min-width: 22rem; }
-.conc tr.part td { background: var(--paper-2); font-family: var(--body); color: var(--ink); font-weight: 650; }
-.conc .ser { display: block; font-family: var(--jp); font-size: 1.12em; color: var(--ink); }
-.conc .ro { display: block; font-style: italic; color: var(--ink-3); font-size: .9em; }
-.conc .en { display: block; color: var(--ink-2); }
+/* ---------- Part IV: one entry per chapter ---------- */
+.chapters { max-width: 46rem; }
+.chapters h3.run { font-family: var(--display); font-weight: 600; font-size: var(--step-2); line-height: 1.2; margin: 3rem 0 .4rem; text-wrap: balance; }
+.chapters p.run-note { color: var(--ink-2); margin: 0 0 1.2rem; }
+article.ch { border-top: 1px solid var(--rule); padding-top: 1rem; margin-top: 1.4rem; }
+.ch-head { display: grid; grid-template-columns: 3.2rem minmax(0, 1fr); column-gap: .9rem; align-items: baseline; }
+.ch-no { grid-row: span 2; font-family: var(--display); font-size: var(--step-3); line-height: 1; color: var(--red); font-variant-numeric: lining-nums; }
+.ch-title { display: flex; flex-wrap: wrap; align-items: baseline; gap: .1rem .8rem; }
+.ch-title .ser { font-family: var(--jp); font-size: var(--step-1); color: var(--ink); }
+.ch-title .ro { font-style: italic; color: var(--ink-3); }
+.ch-title .en { font-family: var(--display); font-size: var(--step-1); color: var(--ink); }
+.ch-meta { grid-column: 2; margin: .2rem 0 0; font-size: var(--step--1); color: var(--ink-3); }
+.ch-meta cite { font-style: italic; }
+.ch-body { margin-left: 4.1rem; }
+.ch-body h4 { margin: .85rem 0 .2rem; font-family: var(--body); font-weight: 600; font-size: .9rem; font-variant: all-small-caps; letter-spacing: .1em; color: var(--red); }
+.ch-body p { margin: 0 0 .6em; }
+@media (max-width: 40rem) {
+  .ch-head { grid-template-columns: 2.4rem minmax(0, 1fr); column-gap: .6rem; }
+  .ch-no { font-size: var(--step-2); }
+  .ch-body { margin-left: 0; }
+}
 .vs td:nth-child(2) { color: var(--ink-2); }
 .vs td:nth-child(3) { color: var(--ink); }
 
